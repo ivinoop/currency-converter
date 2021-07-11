@@ -1,1 +1,1 @@
-# currency-converter
+# Simple Currency Converter Chrome Extension
